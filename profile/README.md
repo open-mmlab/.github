@@ -22,10 +22,10 @@
 
 OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era. It aims to
 
-1. provide high-quality libraries to reduce the difficulties in algorithm reimplementation
-2. create efficient deployment toolchains targeting a variety of backends and devices
-3. build a solid foundation for computer vision research and development
-4. bridge the gap between academic research and industrial applications with full-stack toolchains
+- provide high-quality libraries to reduce the difficulties in algorithm reimplementation
+- create efficient deployment toolchains targeting a variety of backends and devices
+- build a solid foundation for computer vision research and development
+- bridge the gap between academic research and industrial applications with full-stack toolchains
 
 ![openmmlab-2 0-arch-white-bg](https://user-images.githubusercontent.com/40779233/188411410-a95bcf39-1d2a-4d41-865c-c725b3d715f0.png)
 
