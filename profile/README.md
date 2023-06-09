@@ -27,7 +27,7 @@ OpenMMLab builds the most influential open-source computer vision algorithm syst
 - build a solid foundation for computer vision research and development
 - bridge the gap between academic research and industrial applications with full-stack toolchains
 
-![openmmlab-2 0-arch-white-bg](https://user-images.githubusercontent.com/40779233/188411410-a95bcf39-1d2a-4d41-865c-c725b3d715f0.png)
+![openmmlab-2 0-arch-white-bg](https://github.com/open-mmlab/.github/assets/58739961/0ca09314-c6bc-4c2e-a006-a049f8c85a68)
 
 Based on PyTorch, OpenMMLab develops MMEngine to provide universal training and evaluation engine, and MMCV to provide neural network operators and data transforms, which serves as a foundation of the whole project. Since the initial release in October 2018, OpenMMLab has released 30+ vision libraries, has implemented 300+ algorithms, and contains 2000+ pre-trained models.
 
