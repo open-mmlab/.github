@@ -9,16 +9,11 @@
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenMMLab platform</font></b>
-    <sup>
-      <a href="https://platform.openmmlab.com">
-        <i><font size="4">TRY IT OUT</font></i>
-      </a>
-    </sup>
 </div>
 <div>&nbsp;</div>
 </div>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
 
 OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era. It aims to
 
